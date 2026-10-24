@@ -16,8 +16,8 @@ Welcome to my creative design portfolio! This repository showcases graphic desig
 **Tools used:** Canva
 
 ## 🖼️ Poster Preview
+![NEXTGEN 2026 Technology Event Poster](NextGen%202026.png)
 
-![NEXTGEN 2026 Technology Event Poster](NEXTGEN-2026.png)
 
 ## 🌱 About This Portfolio
 
